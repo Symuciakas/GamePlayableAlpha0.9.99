@@ -1,0 +1,13 @@
+1
+1
+Sword1transparent.png
+An ordinary sword made of iron. Even a newbie can use it.
+1
+20
+10
+Iron Sword
+0
+1
+0
+0
+0
